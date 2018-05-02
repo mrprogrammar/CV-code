@@ -1,0 +1,7 @@
+parent.(CV-code)
+end(false)
+end(false)
+pull user to parent.parent.parent.(1sec)(CV-code=false).(actions=true)
+close page.......(cv-code)
+connect master branch
+end()
